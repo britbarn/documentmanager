@@ -2,13 +2,13 @@
 
 This is a Laravel app built for the purpose of creating, editing, deleting, and downloading documents.
 
-##Installation
+## Installation
 
-###Requirements
+### Requirements
 
--Vagrant
--homestead (https://laravel.com/docs/5.6/homestead)
--Composer
+- Vagrant
+- homestead (https://laravel.com/docs/5.6/homestead)
+- Composer
 
 
 When vagrant and homestead are installed and project is cloned, cd into the documentmanager
